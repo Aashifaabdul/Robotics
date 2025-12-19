@@ -6,6 +6,9 @@ The robot navigates to a table, **detects objects using vision and depth**, pick
 The system integrates **navigation, perception, manipulation, and behaviour coordination** into a single autonomous pipeline.
 
 ---
+<img width="1417" height="714" alt="image" src="https://github.com/user-attachments/assets/e0e07fd9-62ad-4cc3-bbe1-8e918889dd3a" />
+<img width="1132" height="705" alt="image" src="https://github.com/user-attachments/assets/e1822edc-57d6-4556-a341-7588aab76953" />
+
 
 ## 🎯 Task Overview
 

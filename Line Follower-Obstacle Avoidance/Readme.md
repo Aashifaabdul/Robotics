@@ -4,6 +4,7 @@ This project implements a **vision-based line-following robot with intelligent o
 The robot uses **camera vision**, a **rangefinder**, and a **PID controller** to follow a black line while safely detecting and avoiding red obstacles in its path.
 
 ---
+<img width="1910" height="995" alt="image" src="https://github.com/user-attachments/assets/5a4db5fd-419a-4ad6-a529-48425f9cd5d5" />
 
 ## 🎯 Key Features
 

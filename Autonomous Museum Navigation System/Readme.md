@@ -5,6 +5,7 @@ This project implements a **full autonomous navigation system** for the **Summit
 The system combines **global path planning**, **local waypoint tracking**, and **reactive obstacle avoidance** using a **hybrid deliberative–reactive architecture**, enabling the robot to safely navigate to multiple user-specified goals in dynamic environments.
 
 ---
+<img width="1915" height="989" alt="image" src="https://github.com/user-attachments/assets/e29565f7-3e22-44db-b78d-cf306c179eee" />
 
 ## 🎯 Key Capabilities
 
